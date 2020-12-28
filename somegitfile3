@@ -1,0 +1,21 @@
+tomcat
+Docker Official Images
+Apache Tomcat is an open source implementation of the Java Servlet and JavaServer Pages technologies
+100M+
+ContainerLinux386ARM 64x86-64PowerPC 64 LEIBM ZARMApplication InfrastructureOfficial Image
+Copy and paste to pull this image
+docker pull tomcat
+View Available Tags
+Description
+Reviews
+Tags
+Quick reference
+Maintained by: the Docker Community
+
+Where to get help: the Docker Community Forums, the Docker Community Slack, or Stack Overflow
+
+Supported tags and respective Dockerfile links
+10.0.0-jdk15-openjdk-oraclelinux7, 10.0-jdk15-openjdk-oraclelinux7, 10-jdk15-openjdk-oraclelinux7, 10.0.0-jdk15-openjdk-oracle, 10.0-jdk15-openjdk-oracle, 10-jdk15-openjdk-oracle
+10.0.0-jdk15-openjdk-buster, 10.0-jdk15-openjdk-buster, 10-jdk15-openjdk-buster, 10.0.0-jdk15-openjdk, 10.0-jdk15-openjdk, 10-jdk15-openjdk, 10.0.0-jdk15, 10.0-jdk15, 10-jdk15
+10.0.0-jdk15-openjdk-slim-buster, 10.0-jdk15-openjdk-slim-buster, 10-jdk15-openjdk-slim-buster, 10.0.0-jdk15-openjdk-slim, 10.0-jdk15-openjdk-slim, 10-jdk15-openjdk-slim
+10.0.0-jdk11-openjdk-buster, 10.0-jdk11-openjdk-
